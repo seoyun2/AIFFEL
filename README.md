@@ -38,7 +38,7 @@
 
 ## Exploration 
 
-* [인공지능과 가위바위보 하기](./Exploration1.jpynb)
+* [인공지능과 가위바위보 하기](Exploration1.ipynb)
 * Iris의 세 가지 품종, 분류해볼 수 있겠어요?
 * 카메라 스티커앱 만들기 첫걸음
 * 작사가 인공지능 만들기
