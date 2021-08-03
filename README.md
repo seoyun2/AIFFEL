@@ -9,6 +9,17 @@
 🚘 [쏘카 블로그](https://blog.socar.kr/)		      👩‍💻 [쏘카 기술 블로그](https://tech.socarcorp.kr/)
 
 
+## Exploration 
+
+* [인공지능과 가위바위보 하기](Exploration1.ipynb)
+* [Iris의 세 가지 품종, 분류해볼 수 있겠어요?](Exploration2.ipynb)
+* [카메라 스티커앱 만들기 첫걸음](Exploration3.ipynb)
+* [작사가 인공지능 만들기](Exploration4.ipynb)
+* [나랑 닮은 연예인은 누구?](Exploration5.ipynb)
+* [나의 첫 번째 캐글 경진대회, 무작정 따라해보기]()
+* [영화리뷰 텍스트 감성분석하기]()
+
+
 
 ## Fundamental 
 
@@ -36,12 +47,3 @@
 
 
 
-## Exploration 
-
-* [인공지능과 가위바위보 하기](Exploration1.ipynb)
-* Iris의 세 가지 품종, 분류해볼 수 있겠어요?
-* 카메라 스티커앱 만들기 첫걸음
-* 작사가 인공지능 만들기
-* 나랑 닮은 연예인은 누구?
-* 나의 첫 번째 캐글 경진대회, 무작정 따라해보기 
-* 영화리뷰 텍스트 감성분석하기
