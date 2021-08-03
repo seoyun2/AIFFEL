@@ -4,9 +4,9 @@
 
 **자기주도적 'Learning by doing' 탐험용 프로젝트로 학습하는 AI 혁신학교 .**
 
-🚙 [쏘카 홈페이지](https://www.socar.kr/)		💙 [쏘카 인스타그램](https://www.instagram.com/socarsharing/)
+🚙 [쏘카 홈페이지](https://www.socar.kr/)		      💙 [쏘카 인스타그램](https://www.instagram.com/socarsharing/)
 
-🚘 [쏘카 블로그](https://blog.socar.kr/)		👩‍💻 [쏘카 기술 블로그](https://tech.socarcorp.kr/)
+🚘 [쏘카 블로그](https://blog.socar.kr/)		      👩‍💻 [쏘카 기술 블로그](https://tech.socarcorp.kr/)
 
 
 
@@ -38,7 +38,7 @@
 
 ## Exploration 
 
-* [인공지능과 가위바위보 하기](/Exploration1.jpynb)
+* [인공지능과 가위바위보 하기](../Exploration1.jpynb)
 * Iris의 세 가지 품종, 분류해볼 수 있겠어요?
 * 카메라 스티커앱 만들기 첫걸음
 * 작사가 인공지능 만들기
