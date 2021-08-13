@@ -45,6 +45,9 @@
 * TF2 API 개요
 * 딥네트워크, 서로 뭐가 다른거죠?
 * 딥러닝 레어어의 이해 (1) Linear, Convolution
+* 딥러닝 레이어의 이해(2) Embedding, Recurrent
+* Regularization
+* 활성화 함수의 이해
 
 
 
