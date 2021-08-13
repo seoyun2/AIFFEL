@@ -17,8 +17,9 @@
 * [작사가 인공지능 만들기](Explorations/[E_04]AI_Lyricist.ipynb)
 * [나랑 닮은 연예인은 누구?](Explorations/[E_05]FaceNet_Embedding.ipynb)
 * [나의 첫 번째 캐글 경진대회, 무작정 따라해보기](Exploratoins/[E_06]First_Kaggle.ipynb)
-* 영화리뷰 텍스트 감성분석하기
-
+* [영화리뷰 텍스트 감성분석하기](Exploratoins/[E_07]Naver_Movie_Review.ipynb)
+* 인물사진을 만들어 보자
+* 아이유팬이 좋아할 만한 다른 아티스트 찾기
 
 
 ## Fundamental 
